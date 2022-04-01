@@ -14,9 +14,7 @@ public class input {
 		System.out.print("Enter third number- ");  
 		int c= sc.nextInt();  
 		int d=a+b+c;  
-		System.out.println("Total= " +d);  
-		System.out.println("Hello");
-		System.out.println("new test");
+		System.out.println("Total= " +d);
 	}
 
 }
