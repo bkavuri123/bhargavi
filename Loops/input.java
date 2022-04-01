@@ -15,6 +15,7 @@ public class input {
 		int c= sc.nextInt();  
 		int d=a+b+c;  
 		System.out.println("Total= " +d);  
+		System.out.println("Hello");
 	}
 
 }
