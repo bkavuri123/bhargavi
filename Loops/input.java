@@ -16,6 +16,7 @@ public class input {
 		int d=a+b+c;  
 		System.out.println("Total= " +d);  
 		System.out.println("Hello");
+		System.out.println("new test");
 	}
 
 }
